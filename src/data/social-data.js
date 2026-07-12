@@ -2,25 +2,25 @@
 const social_data = [
   {
     id:1,
-    link:'https://www.facebook.com/hamed.y.hasan0',
+    link:'https://www.facebook.com/pratishtha.sood',
     icon:'fa-brands fa-facebook-f',
     title:'Facebook'
   },
   {
     id:2,
-    link:'https://twitter.com/HamedHasan75',
+    link:'https://twitter.com/pratishthasood',
     icon:'fa-brands fa-twitter',
     title:'Twitter'
   },
   {
     id:3,
-    link:'nkedin.com/in/hamed-hasan/',
+    link:'https://www.linkedin.com/in/pratishtha-sood-523424329/',
     icon:'fa-brands fa-linkedin-in',
     title:'Linkedin'
   },
   {
     id:4,
-    link:'https://vimeo.com/',
+    link:'https://vimeo.com/pratishthasood',
     icon:'fa-brands fa-vimeo-v',
     title:'Vimeo'
   },
