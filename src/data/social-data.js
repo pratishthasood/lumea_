@@ -6,12 +6,6 @@ const social_data = [
     icon:'fa-brands fa-facebook-f',
     title:'Facebook'
   },
-  // {
-  //   id:2,
-  //   link:'https://twitter.com/pratishthasood',
-  //   icon:'fa-brands fa-twitter',
-  //   title:'Twitter'
-  // },
   {
     id:3,
     link:'https://www.linkedin.com/in/pratishtha-sood-523424329/',
