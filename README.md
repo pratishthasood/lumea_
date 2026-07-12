@@ -76,7 +76,7 @@ lumea/
 ### Clone the Repository
 
 bash
-git clone https://github.com/your-username/lumea.git
+git clone https://github.com/pratishthasood/lumea_.git
 
 
 ### Navigate to Project Directory
