@@ -1,9 +1,9 @@
-# Shofy - Beauty & Cosmetics – Full Stack eCommerce Web Application + Admin Panel
+# lumea - Beauty & Cosmetics – Full Stack eCommerce Web Application + Admin Panel
 
 
-![Shofy Image Banner](https://i.ibb.co/yBHL1wj/beauty-cosmetics.png)
+![lumea Image Banner](https://i.ibb.co/yBHL1wj/beauty-cosmetics.png)
 
-Shofy Beauty & Cosmetics is a powerful and modern full stack eCommerce web application built using Next.js, Express.js, MongoDB with Mongoose, Redux Toolkit, RTK Query, Stripe payment method, Bootstrap 5, and Sass. It includes a feature-rich admin panel for easy management and control of your online store.
+lumea Beauty & Cosmetics is a powerful and modern full stack eCommerce web application built using Next.js, Express.js, MongoDB with Mongoose, Redux Toolkit, RTK Query, Stripe payment method, Bootstrap 5, and Sass. It includes a feature-rich admin panel for easy management and control of your online store.
 
 ## Features Overview
 
@@ -13,13 +13,13 @@ Shofy Beauty & Cosmetics is a powerful and modern full stack eCommerce web appli
 - **Mongoose:** Mongoose provides a straightforward, schema-based solution to model your application data, offering built-in type casting, validation, and query building.
 - **Stripe:** Stripe offers online payment solutions, allowing you to create a secure and reliable website with e-commerce functionality.
 - **Nodemailer:** Nodemailer is a module for Node.js applications that facilitates easy email sending, keeping your users informed and engaged.
-- **Authentication:** Shofy includes features for Google login, user registration, email verification, forgot password, reset password, and profile updates.
+- **Authentication:** lumea includes features for Google login, user registration, email verification, forgot password, reset password, and profile updates.
 - **Redux Toolkit:** Manage state effortlessly with Redux Toolkit, providing a convenient and efficient way to handle state in your application.
 - **RTK Query:** RTK Query is a powerful data fetching and caching tool, ensuring efficient data retrieval for a smoother user experience.
-- **Typescript + Next.js App Directory:** Shofy leverages TypeScript in combination with Next.js, enhancing code reliability and maintainability.
+- **Typescript + Next.js App Directory:** lumea leverages TypeScript in combination with Next.js, enhancing code reliability and maintainability.
 - **Form Validation:** Ensure data accuracy and consistency with form validation capabilities.
 - **Bootstrap 5 (latest Version) Framework:** Bootstrap is a popular HTML, CSS, and JS framework for responsive, mobile-first projects.
-- **Responsive Layout Design:** Shofy is fully responsive across all devices, providing a seamless experience for your customers.
+- **Responsive Layout Design:** lumea is fully responsive across all devices, providing a seamless experience for your customers.
 - **Touch Friendly:** The web application is designed for easy browsing on touch devices, making it accessible to a wide range of users.
 
 ## Full Features List
@@ -54,7 +54,7 @@ Shofy Beauty & Cosmetics is a powerful and modern full stack eCommerce web appli
 
 ## Powerful Additional Features
 
-- **All E-commerce Features and Apps Included:** Shofy provides a comprehensive eCommerce solution with all the essential features and apps needed for a successful online store.
+- **All E-commerce Features and Apps Included:** lumea provides a comprehensive eCommerce solution with all the essential features and apps needed for a successful online store.
 - **Variation Swatch:** Create clean and professional product pages with variation swatches that capture your customer's attention and allow easy selection of product variations.
 - **Filter Variations, Pagination, Filters by Size & Color:** Improve user experience and boost conversion rates by reducing the time needed for customers to complete their orders through filtering options and pagination.
 - **Video Gallery:** Offer customers a detailed view of products with an engaging video gallery that showcases products from different angles or in use.
@@ -67,12 +67,12 @@ Shofy Beauty & Cosmetics is a powerful and modern full stack eCommerce web appli
 
 ## Installation and Usage
 
-To get started with Shofy, follow these steps:
+To get started with lumea, follow these steps:
 
 1. Clone the repository:
 
    ```bash
-   https://github.com/Hamed-Hasan/shofy-Beauty-and-Cosmetics-ecommerce-client.git
+   https://github.com/pratishthasood/lumea_.git
    ```
 
 2. Install dependencies:
@@ -120,12 +120,9 @@ To get started with Shofy, follow these steps:
 - Google Fonts
 - Free Font Awesome Icons by Fontawesome
 
-## Thank You for Choosing Shofy!
+## Thank You for Choosing Lumea!
 
-We hope you find Shofy to be a powerful and effective solution for your eCommerce needs. Should you encounter
-
- any issues or have any questions, please feel free to reach out to our support team at swe.hamedhasan@gmail.com. Happy selling!
-
+We hope you find Lumea to be a powerful and effective solution for your eCommerce needs. 
 
 
 
